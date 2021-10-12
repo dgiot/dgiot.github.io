@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://dgiot.iotn2n.com/sitemap.xml
